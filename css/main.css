@@ -1,9 +1,5 @@
-.navbar {
-    display: inline;
-    vertical-align: center;
-}
-body {
-    background: url(../images/nurseryphoto.jpeg);
-    background-repeat: no-repeat;
-    background-size: cover;
+
+#bannerimage {
+    width: 100%;
+    background-image: url(../images/nurseryphoto.jpeg);
 }
