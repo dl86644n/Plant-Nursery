@@ -31,6 +31,7 @@
   .card button:hover {
     opacity: 0.7;
   }
+<<<<<<< HEAD
 
   /* table, th, td {
     border: 1px solid black;
@@ -43,4 +44,8 @@ header {
 }
 #login {
     text-align: center;
+=======
+  .btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+    background-color: #234622 !important;
+>>>>>>> productBranch
 }
