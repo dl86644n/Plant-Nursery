@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=League+Script&family=Open+Sans+Condensed:wght@300&display=swap');
 
 #bannerimage {
     width: 100%;
@@ -33,4 +34,7 @@
   }
   .btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
     background-color: #234622 !important;
+}
+.scriptleague {
+    font-family: 'League Script', sans-serif;
 }
