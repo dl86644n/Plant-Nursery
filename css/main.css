@@ -1,5 +1,3 @@
-/*@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');*/
-/* @import url('https://fonts.googleapis.com/css2?family=League+Script&display=swap'); */
 @import url('https://fonts.googleapis.com/css2?family=League+Script&family=Open+Sans+Condensed:wght@300&display=swap');
 
 #bannerimage {
@@ -39,7 +37,4 @@
 }
 .scriptleague {
     font-family: 'League Script', sans-serif;
-}
-.condensed {
-    font-family: 'Open Sans Condensed', sans-serif;
 }
