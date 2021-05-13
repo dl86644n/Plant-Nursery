@@ -35,6 +35,9 @@
   .btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
     background-color: #234622 !important;
 }
+#login {
+    text-align: center;
+}
 .scriptleague {
     font-family: 'League Script', sans-serif;
 }
